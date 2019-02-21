@@ -1,0 +1,18 @@
+fieldset {
+ 
+ background: url(sea.jpg) no-repeat;
+ background-size: 100%;
+ margin:30px;
+ padding:40px;
+}
+
+body {
+  background: url(kurado.jpg) no-repeat;
+  background-size: 100%;
+}
+
+label {
+text-decoration:none;
+font-size:1;
+	
+}
